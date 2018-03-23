@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Boot-Class-Path:
+Class-Path:
+Premain-Class: com.woo.jvmtools.javaagent.SimpleAgent
+Can-Redefine-Classes: false
